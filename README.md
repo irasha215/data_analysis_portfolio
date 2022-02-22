@@ -19,7 +19,7 @@ I've created this repository to showcase skills, share projects and track my pro
 
 ## Portfolio Projects <a name="portfolio_projects"></a>
 ### Calculating marketing metrics <a name="mark_metr"></a>
-visitor 
+ 
 **Code:** [marketing_metrics_project](https://github.com/irasha215/data_analysis_course/tree/main/marketing_metrics_project)
 
 **Description:** Dataset contains information about entertainment app. Users' information: region, device, user id, start and end of the session, list of orders and advertisment costs. The project includes following steps: data loading, data cleaning and preprocessing, creating user profiles, calculating LTV, ROI, Retention and Conversion, making plots.
