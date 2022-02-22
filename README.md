@@ -76,4 +76,4 @@ In this repository I collect small projects I've made during test items and just
 ## Contacts<a name="contacts"></a>
 Telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-E-mail: ira_sha215@gmail.com 
+E-mail: irasha215@gmail.com
