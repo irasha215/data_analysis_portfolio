@@ -28,6 +28,8 @@ I've created this repository to showcase skills, share projects and track my pro
 
 **Technology:** pandas, seaborn, matplotlib, numpy
 
+**Status:** finished
+
 ### Simulation of A/B test <a name="a/b_test"></a>
 
 **Code:** [ab_test_project](https://github.com/irasha215/data_analysis_course/tree/main/ab_test_project)
@@ -38,6 +40,8 @@ I've created this repository to showcase skills, share projects and track my pro
 
 **Technology:** pandas, matplotlib, numpy, scipy
 
+**Status:** finished
+
 ### Video games sales analysis <a name="video_games"></a>
 
 **Code:**[video_games_project](https://github.com/irasha215/data_analysis_course/tree/main/video_games_project)
@@ -47,6 +51,8 @@ I've created this repository to showcase skills, share projects and track my pro
 **Skills:** data cleaning, EDA, hypothesis testing.
 
 **Technology:** pandas, matplotlib, numpy, seaborn
+
+**Status:** finished
 
 ## Study projects <a name="study_projects"></a>
 
