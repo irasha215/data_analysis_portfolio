@@ -12,6 +12,7 @@ I've created this repository to showcase skills, share projects and track my pro
     * [Calculating marketing metrics](#mark_metr)
     * [Simulation of A/B test](#a/b_test)
     * [Video games sales analysis](#video_games)
+    * [Event funnel and A/A/B-experiment](#funnel_project)
  * [Study projects](#study_projects)
  * [Side Projects](#side_projects)
  * [Contacts](#contacts)
@@ -44,15 +45,28 @@ I've created this repository to showcase skills, share projects and track my pro
 
 ### Video games sales analysis <a name="video_games"></a>
 
-**Code:**[video_games_project](https://github.com/irasha215/data_analysis_course/tree/main/video_games_project)
+**Code:** [video_games_project](https://github.com/irasha215/data_analysis_course/tree/main/video_games_project)
 
-**Descriotion:** Dataset contains records from 1980 till 2016. This is a list of video games with sales by region, year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, analyzing region based user profiles, identifying the patterns that determine the success of the game, statistical hypothesis testing, making plots.
+**Description:** Dataset contains records from 1980 till 2016. This is a list of video games with sales by region, year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, analyzing region based user profiles, identifying the patterns that determine the success of the game, statistical hypothesis testing, making plots.
 
 **Skills:** data cleaning, EDA, hypothesis testing.
 
 **Technology:** pandas, matplotlib, numpy, seaborn
 
 **Status:** finished
+
+### Event funnel and A/A/B-experiment <a name="funnel_project"></a>
+
+**Code:** [funnel project](https://github.com/irasha215/data_analysis_course/tree/main/funnel_project)
+
+**Description:** Dataset contains information about users' behaviour in e-commerce app: name of event, date, user id, group id. The project includes following steps: data loading, data cleaning and preprocessing, making the event funnel, running statistic tests, analyzing the results of A/A/B-experiment, making plots.
+
+**Skills:** data cleaning, EDA, making an event funnel, running statistic tests, checking A/A/B-test.
+
+**Technology:** pandas,  matplotlib, seaborn, scipy, numpy, math
+
+**Status:** *finished*
+
 
 ## Study projects <a name="study_projects"></a>
 
