@@ -11,6 +11,7 @@ I've created this repository to showcase skills, share projects and track my pro
  * [Portfolio Projects](#portfolio_projects)
     * [Calculating marketing metrics](#mark_metr)
     * [Simulation of A/B test](#a/b_test)
+    * [Vehicle market analysis](#vehicle)
     * [Video games sales analysis](#video_games)
     * [Event funnel and A/A/B-experiment](#funnel_project)
  * [Study projects](#study_projects)
@@ -40,6 +41,20 @@ I've created this repository to showcase skills, share projects and track my pro
 **Skills:** prioritizing hypotheses, data cleaning, data anomalies detection, calculating conversion rate,  A/B-tests (proportions z-test, Mann–Whitney rank test),visualisation, making colclusions ans giving recommendations for follow-up actions.
 
 **Technology:** pandas, matplotlib, numpy, scipy
+
+**Status:** finished
+
+### Vehicle market analysis <a name="vehicle"></a>
+
+**Dashboard:** [tableau_dashboard](https://public.tableau.com/app/profile/shayakhmetova.irina/viz/test_item_ispring/Dashboard2)
+
+**Presentation:** [results](https://github.com/irasha215/small_projects/blob/main/vehicle_market_analysis/presentation.pdf)
+
+**Description:** Dataset contains records from 2003 t0 2005. This is a list of vehicle sales by region, date, customers and product categories. The project incledes the following steps: data loading, data cleaning and preprocessing, filling missing values, making a dashboard, analyzing sales by region, country, product category.
+
+**Skills:** data cleaning, EDA, dashboard making.
+
+**Technology:** pandas, Tableau
 
 **Status:** finished
 
@@ -94,6 +109,6 @@ In this repository I collect small projects I've made during test items and just
 [calculating_ltv_romi](https://github.com/irasha215/different_projects/tree/main/calculating_ltv_romi) -- calculating marketing metrics(LTV, ROMI, Retention) of the app and finding problematic areas.
 
 ## Contacts<a name="contacts"></a>
-Telegram: [@ira_sha215](https://t.me/ira_sha215)
+Telegram: [@irasha215](https://t.me/ira_sha215)
 
 E-mail: irasha215@gmail.com
