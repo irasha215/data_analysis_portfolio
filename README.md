@@ -46,9 +46,7 @@ I've created this repository to showcase skills, share projects and track my pro
 
 ### Vehicle market analysis <a name="vehicle"></a>
 
-**Dashboard:** [tableau_dashboard](https://public.tableau.com/app/profile/shayakhmetova.irina/viz/test_item_ispring/Dashboard2)
-
-**Presentation:** [results](https://github.com/irasha215/small_projects/blob/main/vehicle_market_analysis/presentation.pdf)
+**Project:** [vehicle_market_analysis](https://github.com/irasha215/small_projects/tree/main/vehicle_market_analysis)
 
 **Description:** Dataset contains records from 2003 t0 2005. This is a list of vehicle sales by region, date, customers and product categories. The project incledes the following steps: data loading, data cleaning and preprocessing, filling missing values, making a dashboard, analyzing sales by region, country, product category.
 
