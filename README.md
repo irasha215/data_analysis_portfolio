@@ -14,6 +14,7 @@ I've created this repository to showcase skills, share projects and track my pro
     * [Vehicle market analysis](#vehicle)
     * [Video games sales analysis](#video_games)
     * [Event funnel and A/A/B-experiment](#funnel_project)
+ * [Tableau vizzes](#tableau)
  * [Study projects](#study_projects)
  * [Side Projects](#side_projects)
  * [Contacts](#contacts)
@@ -82,6 +83,13 @@ I've created this repository to showcase skills, share projects and track my pro
 
 **Status:** *finished*
 
+## Tableau vizzes <a name="tableau"></a>
+
+**Link:** [tableau_shayakhmetova_irina](https://public.tableau.com/app/profile/shayakhmetova.irina)
+
+**Description:** There're some dashboards I've been doing while studying, making pet-projects and test-items. Hope you like it!!
+
+**Status:** *in progress*
 
 ## Study projects <a name="study_projects"></a>
 
