@@ -60,6 +60,8 @@ I've created this repository to showcase skills, share projects and track my pro
 
 **Code:** [video_games_project](https://github.com/irasha215/data_analysis_course/tree/main/video_games_project)
 
+**Link to the dashboard:** [video_games_tableau](https://public.tableau.com/views/2013-2016_16498390233050/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 **Description:** Dataset contains records from 1980 till 2016. This is a list of video games with sales by region, year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, analyzing region based user profiles, identifying the patterns that determine the success of the game, statistical hypothesis testing, making plots.
 
 **Skills:** data cleaning, EDA, hypothesis testing.
