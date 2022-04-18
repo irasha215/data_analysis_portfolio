@@ -87,7 +87,7 @@ I've created this repository to showcase skills, share projects and track my pro
 
 **Link:** [tableau_shayakhmetova_irina](https://public.tableau.com/app/profile/shayakhmetova.irina)
 
-**Description:** There're some dashboards I've been doing while studying, making pet-projects and test-items. Hope you like it!!
+**Description:** There're some dashboards I've been doing while studying, making pet-projects and test-items. Hope you'll like it!!
 
 **Status:** *in progress*
 
