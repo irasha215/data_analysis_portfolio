@@ -144,6 +144,6 @@ In this repository I collect small projects I've made during test items and just
 [calculating_ltv_romi](https://github.com/irasha215/different_projects/tree/main/calculating_ltv_romi) -- calculating marketing metrics(LTV, ROMI, Retention) of the app and finding problematic areas.
 
 ## Contacts<a name="contacts"></a>
-Telegram: [@irasha215](https://t.me/ira_sha215)
+Telegram: [@irasha215](https://t.me/irasha215)
 
 E-mail: irasha215@gmail.com
