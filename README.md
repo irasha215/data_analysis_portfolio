@@ -140,10 +140,12 @@ In this repository I collect small projects I've made during test items and just
 
 **List of the projects:**
 
-
 [netflix_visualisation](https://github.com/irasha215/different_projects/tree/main/netflix_visulalisation) -- attempt to analyse netflix subscriprion fee in defferent countries. (EDA and visualisation)
 
 [calculating_ltv_romi](https://github.com/irasha215/different_projects/tree/main/calculating_ltv_romi) -- calculating marketing metrics(LTV, ROMI, Retention) of the app and finding problematic areas.
+
+[vehicle_market_analysis](https://github.com/irasha215/small_projects/tree/main/vehicle_market_analysis) -- making a dashboard to analyze sales of vehicle products in 2003-2005.
+
 
 ## Contacts<a name="contacts"></a>
 Telegram: [@irasha215](https://t.me/irasha215)
