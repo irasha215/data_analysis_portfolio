@@ -9,6 +9,8 @@ I've created this repository to showcase skills, share projects and track my pro
 ## Table of contents
  * [About me](#about_me)
  * [Portfolio Projects](#portfolio_projects)
+    * [Mobile application project](#mobile_app_project)
+    * [A/B-test project](#a_b)
     * [Calculating marketing metrics](#mark_metr)
     * [Simulation of A/B test](#a/b_test)
     * [Vehicle market analysis](#vehicle)
@@ -21,6 +23,31 @@ I've created this repository to showcase skills, share projects and track my pro
 
 
 ## Portfolio Projects <a name="portfolio_projects"></a>
+### Mobile application project  <a name="mobile_app_project"></a>
+
+**Code:** [mobile_app_projects](https://github.com/irasha215/data_analysis_course/tree/main/mobile_app_project)
+
+**Description:** Dataset contains information about e-commerce app. The project includes following steps: data cleaning and preprocessing, EDA, calculation of retention rate, statistic tests, dashboard.
+
+**Skills:** data cleaning, Retention and Conversion calculation, data anomalies detection, visualisation, running stat tests.
+
+**Technology:** pandas, seaborn, matplotlib, numpy, scipy, math, tableau
+
+**Status:** *finished*
+
+### A/B-test project <a name="a_b"></a>
+
+**Code:** [mobile_app_ab](https://github.com/irasha215/data_analysis_course/blob/main/mobile_app_project/mobile_app_ab_test%20(1).ipynb)
+
+**Description:** Dataset contains information about e-commerce app: information about users' behaviour during A/B-experiment. The project includes following steps: data cleaning and preprocessing, EDA, checking the compliance with the terms of reference, making event funnel, calculation of metrics, statistic tests.
+
+**Skills:** data cleaning, data anomalies detection, visualisation, running stat tests, analysis of A/B-test.
+
+**Technology:** pandas, seaborn, matplotlib, numpy, scipy, math.
+
+**Status:** *finished*
+
+
 ### Calculating marketing metrics <a name="mark_metr"></a>
  
 **Code:** [marketing_metrics_project](https://github.com/irasha215/data_analysis_course/tree/main/marketing_metrics_project)
